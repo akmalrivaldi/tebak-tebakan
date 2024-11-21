@@ -4,29 +4,37 @@ const quizData = [
     question: "Hewan apa inii",
     options: ["singa", "sapi", "burung hantu", "dinosaurus"],
     answer: "singa",
-    image: "gambar_gabener1.jpg", // Gambar potongan
-    fullImage: "gambar_bener1.jpg", // Gambar utuh
+    image:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732221917/gambar_gabener1_usctih.jpg",
+    fullImage:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222003/gambar_bener1_qvdfsw.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["srigala", "anjing", "burung", "hiu"],
     answer: "srigala",
-    image: "gambar_gabener2.jpg", // Gambar potongan
-    fullImage: "gambar_bener2.jpg", // Gambar utuh
+    image:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222085/gambar_gabener2_htysg5.jpg", // Gambar potongan
+    fullImage:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222099/gambar_bener2_ixruv9.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["penguin", "kambing", "srigala", "uler"],
     answer: "srigala",
-    image: "gambar_gabener3.jpg", // Gambar potongan
-    fullImage: "gambar_bener3.jpg", // Gambar utuh
+    image:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222180/gambar_gabener3_smdaf6.jpg", // Gambar potongan
+    fullImage:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222196/gambar_bener3_kuwzkm.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["kucing", "anjing", "ayam", "jerapah"],
     answer: "ayam",
-    image: "gambar_gabener4.jpg", // Gambar potongan
-    fullImage: "gambar_bener4.jpg", // Gambar utuh
+    image:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222269/gambar_gabener4_xfng6k.jpg", // Gambar potongan
+    fullImage:
+      "https://res.cloudinary.com/do0yadsn5/image/upload/v1732222281/gambar_bener4_gygk5c.jpg", // Gambar utuh
   },
 ];
 
