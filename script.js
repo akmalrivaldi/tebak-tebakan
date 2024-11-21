@@ -4,31 +4,29 @@ const quizData = [
     question: "Hewan apa inii",
     options: ["singa", "sapi", "burung hantu", "dinosaurus"],
     answer: "singa",
-    image:
-      "https://github.com/akmalrivaldi/tebak-tebakan/raw/main/img/gambar_gabener1.jpg", // Gambar potongan
-    fullImage:
-      "https://github.com/akmalrivaldi/tebak-tebakan/blob/main/img/gambar_bener1.jpg", // Gambar utuh
+    image: "gambar_gabener1.jpg", // Gambar potongan
+    fullImage: "gambar_bener1.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["srigala", "anjing", "burung", "hiu"],
     answer: "srigala",
-    image: "/img/gambar_gabener2.jpg", // Gambar potongan
-    fullImage: "/img/gambar_bener2.jpg", // Gambar utuh
+    image: "gambar_gabener2.jpg", // Gambar potongan
+    fullImage: "gambar_bener2.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["penguin", "kambing", "srigala", "uler"],
     answer: "srigala",
-    image: "/img/gambar_gabener3.jpg", // Gambar potongan
-    fullImage: "/img/gambar_bener3.jpg", // Gambar utuh
+    image: "gambar_gabener3.jpg", // Gambar potongan
+    fullImage: "gambar_bener3.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
     options: ["kucing", "anjing", "ayam", "jerapah"],
     answer: "ayam",
-    image: "/img/gambar_gabener4.jpg", // Gambar potongan
-    fullImage: "/img/gambar_bener4.jpg", // Gambar utuh
+    image: "gambar_gabener4.jpg", // Gambar potongan
+    fullImage: "gambar_bener4.jpg", // Gambar utuh
   },
 ];
 
