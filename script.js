@@ -5,7 +5,8 @@ const quizData = [
     options: ["singa", "sapi", "burung hantu", "dinosaurus"],
     answer: "singa",
     image: "/img/gambar_gabener1.jpg", // Gambar potongan
-    fullImage: "/img/gambar_bener1.jpg", // Gambar utuh
+    fullImage:
+      "https://github.com/akmalrivaldi/tebak-tebakan/blob/main/img/gambar_bener1.jpg", // Gambar utuh
   },
   {
     question: "Hewan apa inii",
