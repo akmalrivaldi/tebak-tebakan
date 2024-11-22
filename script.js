@@ -112,7 +112,8 @@ function checkAnswer(selected) {
       imageAlt: "Gambar utuh",
       icon: "error",
     }).then(() => {
-      nextBtn.classList.remove("hidden"); // Tampilkan tombol untuk lanjut
+      loadNextQuestion();
+      //   nextBtn.classList.remove("hidden"); // Tampilkan tombol untuk lanjut
     });
   }
 }
