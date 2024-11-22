@@ -111,6 +111,8 @@ function checkAnswer(selected) {
       imageWidth: 400,
       imageAlt: "Gambar utuh",
       icon: "error",
+      timer: 2000, // Pop-up otomatis tertutup setelah 2 detik
+      showConfirmButton: false,
     }).then(() => {
       loadNextQuestion();
       //   nextBtn.classList.remove("hidden"); // Tampilkan tombol untuk lanjut
