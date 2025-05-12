@@ -50,7 +50,7 @@ const nextBtn = document.getElementById("next-btn");
 
 document.addEventListener("DOMContentLoaded", () => {
   Swal.fire({
-    title: "Masukkan Nama Kamu!",
+    title: "Masukkin Nama Dulu Brodii!",
     input: "text",
     inputPlaceholder: "Masukkin Nama",
     confirmButtonText: "Mulai",
